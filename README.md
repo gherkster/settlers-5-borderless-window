@@ -13,7 +13,7 @@ A registry update is required to enable the resolution picker on game startup, w
 
 To do this, create/update the registry value at `HKLM\SOFTWARE\Blue Byte\The Settlers - Heritage Of Kings\Development\DefaultResolution` to **`select`**.
 
-![image](https://github.com/gherkster/settlers-5-borderless-window/assets/42132632/e6eed4d2-22b0-4e73-8570-2e8f4d42f339)
+![image](https://github.com/gherkster/settlers-5-borderless-window/assets/42132632/f3a331a1-8c4f-436a-ac82-fd471b834498)
 
 More details can be found on the [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Settlers:_Heritage_of_Kings).
 
@@ -21,7 +21,7 @@ More details can be found on the [PC Gaming Wiki](https://www.pcgamingwiki.com/w
 
 Each time the game is launched, the default RenderWare resolution picker will open, defaulted to windowed mode in the primary monitor's resolution.
 
-![image](https://github.com/gherkster/settlers-5-borderless-window/assets/42132632/ef966251-8324-47f4-9f59-f04140e2be5b)
+![image](https://github.com/gherkster/settlers-5-borderless-window/assets/42132632/78b90fc7-41e5-4316-ac30-208dc9d37cc5)
 
 By installing this patch and selecting this option, the game will launch using that resolution in borderless window mode.
 
